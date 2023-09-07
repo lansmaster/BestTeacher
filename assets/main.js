@@ -1,6 +1,6 @@
 var i = 0;
-var txt = 'Evgen the best teacher!'; /* The text */
-var speed = 100; /* The speed/duration of the effect in milliseconds */
+var txt = 'Evgen the best teacher!';
+var speed = 100;
 
 function typeWriter() {
   if (i < txt.length) {
